@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @borjaguardamino
+- I'm a Final Year MEng Aerospace Engineering Student at Manchester University 
+- I'm hoping to learn AI skills fast, as I would love to do an AI-Fluid Dynamics PhD
+- Any tips/suggestions for projects/resources are very appreciated :)
+- Thank you!
