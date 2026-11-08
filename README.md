@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Borja Diaz-Guardamino.
 - I'm a graduating PhD Student at The University of Manchester.
 - I do code development for fluid dynamics in C++ and Python.
+- Very interested in ML methods and applications.
